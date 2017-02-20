@@ -6,6 +6,8 @@ Goal in Context: The manager is able to determine the license and vulnerability 
 Stakeholders: 
 Manager: To receive clear and relevant project information. 
 Developer: To provide the relevant project file information
+Project Owner: To understand the Manager’s decision to green/red light to a project 
+
 
 
 
