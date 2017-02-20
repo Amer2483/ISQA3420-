@@ -10,6 +10,7 @@ Project Owner: To understand the Manager’s decision to green/red light to a pr
 NIST System: To provide license & vulnerability information of the software package
 Preconditions: 
 
+Project policy documents should be proper and up to date 
 
 
 
