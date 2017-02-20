@@ -10,8 +10,8 @@ Use Case 1:
 <p><b>Developer:</b>To provide the relevant project file information</p>
 <p><b>Project Owner:</b>To understand the Manager’s decision to green/red light to a project</p> 
 <p><b>NIST System:</b>To provide license & vulnerability information of the software package</p>
-<p><b>Preconditions:</b></p>
 
+<p><b>Preconditions:</b></p>
 Project policy documents should be proper and up to date 
 Database is up to date of License & vulnerability information 
 Relevant file/package information is in NIST database. 
