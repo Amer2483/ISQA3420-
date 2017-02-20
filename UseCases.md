@@ -2,7 +2,7 @@
 <h1>
 Use Case 1: 
 </h1>
-Title: Determine License & Vulnerability Information of Software Packages 
+<p><b>Title:</b> Determine License & Vulnerability Information of Software Packages </p>
 Primary Actor: Manager 
 Goal in Context: The manager is able to determine the license and vulnerability information provided from provided project Information 
 Stakeholders: 
