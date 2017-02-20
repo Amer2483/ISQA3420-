@@ -1,3 +1,4 @@
+<div>
 <h1>
 Use Case 1: 
 </h1>
@@ -19,7 +20,7 @@ Main Success Scenario: Manager receives accurate license & vulnerability informa
 Failed End Condition: Manager receives inaccurate or invalid license & vulnerability information for the requested project packages 
 
 Trigger: Manager uploads software project request to which the License & vulnerability information is provided 
-
+</div>
 
 
 
