@@ -11,6 +11,8 @@ NIST System: To provide license & vulnerability information of the software pack
 Preconditions: 
 
 Project policy documents should be proper and up to date 
+Database is up to date of License & vulnerability information 
+
 
 
 
