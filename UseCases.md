@@ -11,7 +11,7 @@ Use Case 1:
 <p><b>NIST System:</b>To provide license & vulnerability information of the software package</p>
 
 <p><b>Preconditions:</b></p>
-<p>Project policy documents should be proper and up to date</p> 
+
 <p>Database is up to date of License & vulnerability information</p> 
 <p>Relevant file/package information is in NIST database.</p> 
 <p><b>Main Success Scenario:</b> Manager receives accurate license & vulnerability information for the requested project packages</p>
