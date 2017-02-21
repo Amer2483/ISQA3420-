@@ -22,6 +22,28 @@ Use Case 1:
 
 </div>
 
+<div>
+<h1>
+Use Case 2: 
+</h1>
+<p><b>Title:</b> Verification of open source package for vulnerability </p>
+<p><b>Primary Actor:</b> Developer</p>
+<p><b>Goal in Context:</b> The developer is able to send software package and is provided by software vulnerability information 
+
+<p><b>Stakeholders:</b>
+<p><b>Developer:</b>To receive vulnerability information of open source software package</p>
+
+<p><b>Preconditions:</b></p>
+
+<p>Database is up to date of License & vulnerability information</p> 
+<p>Relevant file/package information is in NIST database.</p> 
+<p><b>Main Success Scenario:</b> Developer receives accurate vulnerability information of software package</p>
+
+<p><b>Failed End Condition:</b> Developer does not obtain vulnerability information of the software package</p> 
+
+<p><b>Trigger:</b> Developer sends software package for vulnerability information </p>
+
+</div>
 
 
 
