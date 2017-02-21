@@ -28,7 +28,7 @@ Use Case 2:
 </h1>
 <p><b>Title:</b> Verification of open source package for vulnerability </p>
 <p><b>Primary Actor:</b> Developer</p>
-<p><b>Goal in Context:</b> The developer is able to send software package and is provided by software vulnerability information 
+<p><b>Goal in Context:</b> The developer is able to send software package and is provided by software vulnerability information</p> 
 
 <p><b>Stakeholders:</b>
 <p><b>Developer:</b>To receive vulnerability information of open source software package</p>
@@ -45,7 +45,29 @@ Use Case 2:
 
 </div>
 
+<div>
+<h1>
+Use Case 3: 
+</h1>
+<p><b>Title:</b> Modify Policy Document of open source software </p>
+<p><b>Primary Actor:</b> Manager</p>
+<p><b>Goal in Context:</b> The developer is able to create or modify policy documents</p> 
 
+<p><b>Stakeholders:</b>
+<p><b>Manager:</b>To create or modify policy information documents</p>
+
+<p><b>Preconditions:</b></p>
+
+<p>Database is up to date of License & vulnerability information</p> 
+<p>Relevant file/package information is in NIST database.</p> 
+
+<p><b>Main Success Scenario:</b> Developer sends accurate policy information to the manager to make informed decisions </p>
+
+<p><b>Failed End Condition:</b> The create or modified policy documents are not being applied by the manager to make decisions </p> 
+
+<p><b>Trigger:</b> Creates or modifies policy documents of open source software </p>
+
+</div>
 
 
 
