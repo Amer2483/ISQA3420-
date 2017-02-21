@@ -26,7 +26,7 @@ Use Case 1:
 <h1>
 Use Case 2: 
 </h1>
-<p><b>Title:</b> Verification of open source package for vulnerability </p>
+<p><b>Title:</b> Verification of Open Source Package for Vulnerability </p>
 <p><b>Primary Actor:</b> Developer</p>
 <p><b>Goal in Context:</b> The developer is able to send software package and is provided by software vulnerability information</p> 
 
@@ -49,7 +49,7 @@ Use Case 2:
 <h1>
 Use Case 3: 
 </h1>
-<p><b>Title:</b> Modify Policy Document of open source software </p>
+<p><b>Title:</b> Modify Policy Document of Open Source Software </p>
 <p><b>Primary Actor:</b> Manager</p>
 <p><b>Goal in Context:</b> The developer is able to create or modify policy documents</p> 
 
