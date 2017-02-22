@@ -1,3 +1,4 @@
+<div>
 
 National vulnerability Database: It is a database maintained by NIST and maintains the information about vulnerabilities of different software packages.<br>
 License and vulnerability Database: It is a database that is used for storing license information obtained from license scanner and vulnerability reports obtained from NIST. <br>
@@ -23,6 +24,7 @@ Developer: The employee who is responsible for software development. <br>
 
 Manager: The employee who is responsible for managing software development.<br>
 
+</div>
 
 
 
