@@ -6,7 +6,7 @@ Developer: The employee who is responsible for software development.
 
 Manager: The employee who is responsible for managing software development.
 
-Processes: 
+<h1>Processes:</h1> 
 
 License/Scanner: It scans the software package for license terms and conditions.
 
@@ -18,7 +18,7 @@ Request software information: The process by which license and vulnerability inf
 
 Retrieve Policy information: The process in which Information about from the policy database about a policy for a manager.
 
-Data Flows: 
+<h1>Data Flows:</h1> 
 
 Package: The software package regarding which the developer and the manager want to obtain license and vulnerability reports.
 
@@ -41,7 +41,7 @@ New project policy: The policy designed as a result of the create policy process
 Project policy request: A request sent to policy database for retrieving a policy.
 
 
-Data Repositories: 
+<h1>Data Repositories:</h1> 
 
 National vulnerability Database: It is a database maintained by NIST and maintains the information about vulnerabilities of different software packages. 
 
