@@ -12,8 +12,8 @@ Use Case 1:
 
 <p><b>Preconditions:</b></p>
 
-<p>Database is up to date of License & vulnerability information</p> 
-<p>Relevant file/package information is in NIST database.</p> 
+  <p>Database is up to date of License & vulnerability information</p> 
+  <p>Relevant file/package information is in NIST database.</p> 
 <p><b>Main Success Scenario:</b> Manager receives accurate license & vulnerability information for the requested project packages</p>
 
 <p><b>Failed End Condition:</b> Manager receives inaccurate or invalid license & vulnerability information for the requested project packages</p> 
@@ -35,8 +35,8 @@ Use Case 2:
 
 <p><b>Preconditions:</b></p>
 
-<p>Database is up to date of License & vulnerability information</p> 
-<p>Relevant file/package information is in NIST database.</p> 
+  <p>Database is up to date of License & vulnerability information</p> 
+  <p>Relevant file/package information is in NIST database.</p> 
 <p><b>Main Success Scenario:</b> Developer sends data to the database and receives accurate vulnerability information of software package</p>
 
 <p><b>Failed End Condition:</b> Developer does not obtain vulnerability information of the software package</p> 
@@ -58,7 +58,7 @@ Use Case 3:
 
 <p><b>Preconditions:</b></p>
 
-<p>Relevant file/package information is in NIST database.</p> 
+  <p>Relevant file/package information is in NIST database.</p> 
 
 <p><b>Main Success Scenario:</b> Accurate policy information is provided to the manager to make informed decisions </p>
 
