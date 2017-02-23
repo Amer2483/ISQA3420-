@@ -31,10 +31,9 @@ Use Case 2:
 <p><b>Stakeholders:</b>
 <p><b>Developer:</b>To receive vulnerability information of open source software package</p>
 
-<p><b>Preconditions:</b></p>
+<p><b>Preconditions:</b>Database is up to date of License & vulnerability information, Relevant file/package information is in NIST database.</p>
 
-  <p>Database is up to date of License & vulnerability information</p> 
-  <p>Relevant file/package information is in NIST database.</p> 
+ 
 <p><b>Main Success Scenario:</b> Developer sends data to the database and receives accurate vulnerability information of software package</p>
 
 <p><b>Failed End Condition:</b> Developer does not obtain vulnerability information of the software package</p> 
@@ -54,9 +53,9 @@ Use Case 3:
 <p><b>Stakeholders:</b>
 <p><b>Manager:</b>To create or modify policy information documents</p>
 
-<p><b>Preconditions:</b></p>
+<p><b>Preconditions:</b>Relevant file/package information is in NIST database.</p>
 
-  <p>Relevant file/package information is in NIST database.</p> 
+
 
 <p><b>Main Success Scenario:</b> Accurate policy information is provided to the manager to make informed decisions </p>
 
