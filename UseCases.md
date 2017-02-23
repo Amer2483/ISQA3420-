@@ -51,7 +51,7 @@ Use Case 3:
 </h1>
 <p><b>Title:</b> Modify Policy Document of Open Source Software </p>
 <p><b>Primary Actor:</b> Manager</p>
-<p><b>Goal in Context:</b> The developer is able to create or modify policy documents</p> 
+<p><b>Goal in Context:</b> The Manager is able to create or modify policy documents</p> 
 
 <p><b>Stakeholders:</b>
 <p><b>Manager:</b>To create or modify policy information documents</p>
