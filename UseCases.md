@@ -10,10 +10,8 @@ Use Case 1:
 <p><b>Developer:</b>To provide the relevant project file information</p>
 <p><b>NIST System:</b>To provide license & vulnerability information of the software package</p>
 
-<p><b>Preconditions:</b></p>
+<p><b>Preconditions:</b>Database is up to date of License & vulnerability information, Relevant file/package information is in NIST database.</p>
 
-  <p>Database is up to date of License & vulnerability information</p> 
-  <p>Relevant file/package information is in NIST database.</p> 
 <p><b>Main Success Scenario:</b> Manager receives accurate license & vulnerability information for the requested project packages</p>
 
 <p><b>Failed End Condition:</b> Manager receives inaccurate or invalid license & vulnerability information for the requested project packages</p> 
